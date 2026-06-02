@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lisara Lonitha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **bla bla**
+- 🔭 I’m currently working on **Halo Putha**
 
-- 🌱 I’m currently learning **Apaya**
+- 🌱 I’m currently learning **Sinhala**
 
-- 👯 I’m looking to collaborate on **halo putha**
+- 👯 I’m looking to collaborate on **Apaya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
